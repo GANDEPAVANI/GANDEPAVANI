@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pavani Gande</h1>
 
 <h3 align="center">
-💻 Aspiring Software Developer | AI & ML Enthusiast | Java Developer
+💻 Aspiring Software Developer | Java Developer | Tech Enthusiast
 </h3>
 
 <p align="center">
@@ -13,10 +13,11 @@
 ## 👩‍💻 About Me
 
 🎓 Computer Science Engineering Graduate  
-🌱 Currently learning **Java, Data Structures, Web Development & Machine Learning**  
-🚀 Interested in **Software Development and Artificial Intelligence**  
+💻 Passionate about Software Development  
+🌱 Currently improving Java, Web Development and Database skills  
+🚀 Interested in building real-world applications  
 👩‍💼 Team Leader for my Final Year Project  
-💡 Love solving problems and building innovative solutions  
+💡 Always curious to learn new technologies  
 
 ---
 
@@ -34,20 +35,19 @@
 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange"/>
-
-<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
-</p>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
+</p>
 
 ---
 
@@ -55,31 +55,28 @@
 
 ## 🍎 Food & Beverage Calorie Prediction System
 
-🔹 Deep Learning based project  
-🔹 Predicts calories from food images  
-🔹 Used image processing and ResNet architecture  
-🔹 Worked as Team Leader  
+🔹 Developed a deep learning based application  
+🔹 Predicts calories from food and beverage images  
+🔹 Used image processing techniques  
+🔹 Worked as Team Leader and managed project activities  
 
----
 
 ## 📚 Library Management System
 
-🔹 Developed using Java and Database  
-🔹 Manages books, users and records  
+🔹 Developed an application to manage books and users  
 🔹 Implemented CRUD operations  
+🔹 Connected application with database  
 
----
 
 ## 🍽️ Restaurant Website
 
 🔹 Developed using HTML, CSS and JavaScript  
-🔹 Responsive website design  
-🔹 Users can view restaurant details and menu  
+🔹 Created responsive webpage design  
+🔹 Users can view menu and restaurant details  
 
 ---
 
 # 📊 GitHub Stats
-
 
 <p align="center">
 
@@ -104,12 +101,12 @@
 
 ---
 
-# 📈 Current Focus
+# 📌 Currently Learning
 
-🌱 Improving Java Programming  
-🌱 Practicing Data Structures & Algorithms  
-🌱 Exploring AI & Machine Learning Applications  
-🌱 Building Full Stack Projects  
+🌱 Advanced Java  
+🌱 Data Structures & Algorithms  
+🌱 Web Development  
+🌱 Database Management  
 
 
 ---
@@ -119,7 +116,9 @@
 <p align="center">
 
 <a href="https://github.com/GANDEPAVANI">
+
 <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+
 </a>
 
 </p>
@@ -128,5 +127,5 @@
 ---
 
 <h3 align="center">
-⭐ "Learning today, building tomorrow."
+⭐ Learning • Coding • Growing ⭐
 </h3>
