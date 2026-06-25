@@ -1,105 +1,132 @@
-# Hi 👋, I'm Pavani Gande
+<h1 align="center">Hi 👋, I'm Pavani Gande</h1>
 
-🎓 B.Tech Computer Science Engineering Graduate  
-💻 Aspiring Software Developer | AI & ML Enthusiast  
-🌱 Passionate about learning new technologies and building real-world projects
+<h3 align="center">
+💻 Aspiring Software Developer | AI & ML Enthusiast | Java Developer
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F75C7E&center=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Learning+New+Technologies;Building+Real+World+Projects" />
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🔭 I’m currently working on improving my programming and development skills
-- 🌱 Learning Java, Web Development, Database Management, and Machine Learning
-- 💡 Interested in Software Development and Artificial Intelligence
-- 👩‍💼 Team Leader for my final year project
-- 🚀 I enjoy solving problems and creating useful applications
+🎓 Computer Science Engineering Graduate  
+🌱 Currently learning **Java, Data Structures, Web Development & Machine Learning**  
+🚀 Interested in **Software Development and Artificial Intelligence**  
+👩‍💼 Team Leader for my Final Year Project  
+💡 Love solving problems and building innovative solutions  
 
 ---
 
-## 🛠️ Technical Skills
+# 🛠️ Skills & Technologies
 
-### Programming Languages
-- Java
-- Python
-- JavaScript
+<p align="center">
 
-### Web Technologies
-- HTML
-- CSS
-- JavaScript
-- PHP
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
 
-### Database
-- SQL
-- MySQL
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-### AI / ML
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- ResNet Model
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-### Tools
-- Git & GitHub
-- VS Code
-- Jupyter Notebook
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
----
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-## 🚀 Projects
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-### 🍎 Food & Beverage Calorie Prediction System
-- Developed a deep learning-based system to predict calories from food and beverages
-- Used image processing and deep learning techniques
-- Implemented a model using ResNet architecture
-- Worked as Team Leader and managed project activities
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-### 📚 Library Management System
-- Developed a system to manage books, users, and records
-- Implemented CRUD operations and database connectivity
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange"/>
 
-### 🍽️ Restaurant Website
-- Designed a responsive restaurant webpage using HTML, CSS, and JavaScript
-- Users can view menu and restaurant details
+<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</p>
+
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Projects
 
-![Pavani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GANDEPAVANI&show_icons=true)
+## 🍎 Food & Beverage Calorie Prediction System
 
----
-
-## 📌 Currently Learning
-
-- Data Structures & Algorithms
-- Advanced Java
-- Backend Development
-- Machine Learning Applications
+🔹 Deep Learning based project  
+🔹 Predicts calories from food images  
+🔹 Used image processing and ResNet architecture  
+🔹 Worked as Team Leader  
 
 ---
 
-## 🤝 Connect With Me
+## 📚 Library Management System
 
-📧 Email: your-email@example.com
-
-💼 LinkedIn: Add your LinkedIn profile link
+🔹 Developed using Java and Database  
+🔹 Manages books, users and records  
+🔹 Implemented CRUD operations  
 
 ---
 
-⭐ "Learning today, building tomorrow."## Hi there 👋
+## 🍽️ Restaurant Website
 
-<!--
-**GANDEPAVANI/GANDEPAVANI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Developed using HTML, CSS and JavaScript  
+🔹 Responsive website design  
+🔹 Users can view restaurant details and menu  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 📊 GitHub Stats
+
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=GANDEPAVANI&show_icons=true&theme=tokyonight" />
+
+</p>
+
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GANDEPAVANI&layout=compact&theme=tokyonight" />
+
+</p>
+
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GANDEPAVANI&theme=tokyonight" />
+
+</p>
+
+
+---
+
+# 📈 Current Focus
+
+🌱 Improving Java Programming  
+🌱 Practicing Data Structures & Algorithms  
+🌱 Exploring AI & Machine Learning Applications  
+🌱 Building Full Stack Projects  
+
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/GANDEPAVANI">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+
+---
+
+<h3 align="center">
+⭐ "Learning today, building tomorrow."
+</h3>
